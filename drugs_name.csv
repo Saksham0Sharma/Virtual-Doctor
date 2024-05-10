@@ -1,0 +1,150 @@
+Disease,Potential Drug Categories
+Alzheimer's disease,"Cholinesterase inhibitors, NMDA receptor antagonists, Antidepressants"
+HIV,"Antiretrovirals (NRTIs, NNRTIs, PIs, Entry/Integrase inhibitors)"
+Pneumocystis carinii pneumonia,"Antibiotics, Antivirals, Antifungals"
+accident cerebrovascular,"Anticoagulants, Antiplatelets, Thrombolytics"
+acquired immuno-deficiency syndrome,"Antiretrovirals, Antimicrobials"
+adenocarcinoma,"Chemotherapeutic agents, Targeted cancer therapies"
+adhesion,"Adhesiolysis ,Adhesion barriers,Laparoscopic adhesiolysis"
+affect labile,"Mood stabilizers, Antipsychotics, Antidepressants, Psychotherapy"
+anemia,"Iron supplements, Erythropoietin stimulating agents, Vitamin supplements"
+anxiety state,"Benzodiazepines, SSRIs, SNRIs"
+aphasia,Speech and language therapy
+arthritis,"NSAIDs, DMARDs, Corticosteroids"
+asthma,"Bronchodilators, Inhaled corticosteroids, Leukotriene modifiers"
+bacteremia,Antibiotics
+benign prostatic hypertrophy,"Alpha-blockers, 5-alpha reductase inhibitors"
+biliary calculus,"Ursodeoxycholic acid, Cholecystectomy"
+bipolar disorder,"Mood stabilizers, Antipsychotics, Antidepressants"
+bronchitis,"Bronchodilators, Corticosteroids, Antibiotics"
+candidiasis,Antifungals
+carcinoma,"Chemotherapeutic agents, Targeted cancer therapies, Hormonal therapies"
+carcinoma breast,"Chemotherapeutic agents, Targeted cancer therapies, Hormonal therapies"
+carcinoma colon,"Chemotherapeutic agents, Targeted cancer therapies, Hormonal therapies"
+carcinoma of lung,"Chemotherapeutic agents, Targeted cancer therapies, Hormonal therapies"
+carcinoma prostate,"Chemotherapeutic agents, Targeted cancer therapies, Hormonal therapies"
+cardiomyopathy,"ACE inhibitors, Beta-blockers, Diuretics, Aldosterone antagonists"
+cellulitis,Antibiotics
+cholecystitis,"Antibiotics, Cholecystectomy"
+cholelithiasis,"Ursodeoxycholic acid, Cholecystectomy"
+chronic alcoholic intoxication,"Benzodiazepines, Anticonvulsants, Psychosocial support"
+chronic kidney failure,"ACE inhibitors, Angiotensin II receptor blockers, Diuretics, Dialysis"
+chronic obstructive airway disease,"Bronchodilators, Inhaled corticosteroids, Phosphodiesterase-4 inhibitors"
+cirrhosis,"Diuretics, Lactulose, Antibiotics, Liver transplantation"
+colitis,"Aminosalicylates, Corticosteroids, Immunomodulators"
+confusion,Depending on underlying cause
+coronary arteriosclerosis,"Antiplatelet agents, Statins, ACE inhibitors, Beta-blockers"
+coronary heart disease,"Antiplatelet agents, Statins, ACE inhibitors, Beta-blockers"
+decubitus ulcer,"Wound care, Antibiotics, Debridement"
+deep vein thrombosis,Anticoagulants
+degenerative polyarthritis,"NSAIDs, DMARDs, Corticosteroids"
+deglutition disorder,"Speech and language therapy, Dietary modifications"
+dehydration,Fluid and electrolyte replacement
+delirium,"Depending on underlying cause, Antipsychotics"
+delusion,Antipsychotics
+dementia,"Cholinesterase inhibitors, NMDA receptor antagonists, Antidepressants"
+dependence,"Pharmacotherapy, Behavioral therapies"
+depression mental,"Antidepressants, Psychotherapy"
+depressive disorder,"Antidepressants, Psychotherapy"
+diabetes,"Insulin, Metformin, Sulfonylureas, SGLT-2 inhibitors, GLP-1 agonists"
+diverticulitis,"Antibiotics, Mesalamine"
+diverticulosis,"High-fiber diet, Mesalamine"
+edema pulmonary,"Diuretics, Vasodilators, Oxygen therapy"
+effusion pericardial,"Diuretics, Pericardiocentesis"
+embolism pulmonary,"Anticoagulants, Thrombolytics"
+emphysema pulmonary,"Bronchodilators, Corticosteroids, Oxygen therapy"
+encephalopathy,Depending on underlying cause
+endocarditis,Antibiotics
+epilepsy,Anticonvulsants
+exanthema,"Depending on underlying cause, Antihistamines, Corticosteroids"
+failure heart,"ACE inhibitors, Beta-blockers, Diuretics, Aldosterone antagonists, Digoxin"
+failure heart congestive,"ACE inhibitors, Beta-blockers, Diuretics, Aldosterone antagonists, Digoxin"
+failure kidney,"ACE inhibitors, Beta-blockers, Diuretics, Aldosterone antagonists, Digoxin"
+fibroid tumor,"Gonadotropin-releasing hormone agonists, Progestins, Surgery"
+gastritis,"Proton pump inhibitors, H2 receptor antagonists, Antibiotics"
+gastroenteritis,"Fluid and electrolyte replacement, Antimotility agents, Antibiotics"
+gastroesophageal reflux disease,"Proton pump inhibitors, H2 receptor antagonists"
+glaucoma,"Prostaglandin analogs, Beta-blockers, Alpha-agonists, Carbonic anhydrase inhibitors"
+gout,"Xanthine oxidase inhibitors, NSAIDs, Colchicine, Corticosteroids"
+hemiparesis,"Physical therapy, Occupational therapy, Muscle relaxants"
+hemorrhoids,"Topical preparations, Sitz baths, Surgery"
+hepatitis,Antiviral agents
+hepatitis B,Antiviral agents
+hepatitis C,Direct-acting antivirals
+hernia,Surgery
+hernia hiatal,"Proton pump inhibitors, H2 receptor antagonists, Surgery"
+hiv infections,Antiretrovirals
+hyperbilirubinemia,Depending on underlying cause
+hypercholesterolemia,"Statins, Bile acid sequestrants, Fibrates"
+hyperglycemia,"Insulin, Oral antidiabetic agents"
+hyperlipidemia,"Statins, Fibrates, Bile acid sequestrants"
+hypertension pulmonary,"Endothelin receptor antagonists, Phosphodiesterase-5 inhibitors, Prostacyclin analogs"
+hypertensive disease,"ACE inhibitors, Angiotensin II receptor blockers, Calcium channel blockers, Diuretics"
+hypoglycemia,"Glucose, Glucagon"
+hypothyroidism,Levothyroxine
+ileus,"Nasogastric decompression, Prokinetic agents"
+incontinence,"Anticholinergics, Alpha-blockers, Botulinum toxin injections"
+infection,Antibiotics
+infection urinary tract,Antibiotics
+influenza,Antivirals
+insufficiency renal,"ACE inhibitors, Angiotensin II receptor blockers, Diuretics"
+ischemia,Depending on location
+ketoacidosis diabetic,"Insulin, Fluid and electrolyte replacement"
+kidney disease,"Fluid and electrolyte management, Dialysis"
+kidney failure acute,"Dialysis, Kidney transplantation"
+lymphatic diseases,Depending on specific condition
+lymphoma,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+malignant neoplasm of breast,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+malignant neoplasm of lung,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+malignant neoplasm of prostate,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+malignant neoplasms,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+malignant tumor of colon,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+malignant neoplasms,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+manic disorder,"Mood stabilizers, Antipsychotics"
+melanoma,"Chemotherapeutic agents, Targeted therapies, Immunotherapies"
+migraine disorders,"Triptans, Anti-seizure medications, CGRP antagonists"
+mitral valve insufficiency,"Diuretics, ACE inhibitors, Angiotensin II receptor blockers, Surgery"
+myocardial infarction,"Anticoagulants, Antiplatelets, Thrombolytics, Beta-blockers, ACE inhibitors"
+neoplasm,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+neoplasm metastasis,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+neuropathy,"Depending on underlying cause, Antidepressants, Anticonvulsants"
+neutropenia,Granulocyte colony-stimulating factors (G-CSF)
+obesity,"Lifestyle modifications, Anti-obesity medications, Bariatric surgery"
+obesity morbid,"Lifestyle modifications, Anti-obesity medications, Bariatric surgery"
+oral candidiasis,Antifungals
+osteomyelitis,"Antibiotics, Surgery"
+osteoporosis,"Bisphosphonates, Denosumab, Teriparatide, Raloxifene"
+overload fluid,"Diuretics, Fluid restriction"
+pancreatitis,"Fluid and electrolyte replacement, Analgesics, Antibiotics"
+pancytopenia,"Depending on underlying cause, Hematopoietic growth factors"
+paranoia,Antipsychotics
+parkinson disease,"Levodopa, Dopamine agonists, MAO-B inhibitors, Anticholinergics"
+paroxysmal dyspnea,Depending on underlying cause
+pericardial effusion body substance,"Diuretics, Pericardiocentesis"
+peripheral vascular disease,"Antiplatelet agents, Statins, Angiotensin-converting enzyme (ACE) inhibitors"
+personality disorder,"Psychotherapy, Antidepressants, Mood stabilizers"
+pneumonia,Antibiotics
+pneumonia aspiration,"Antibiotics, Respiratory support"
+pneumothorax,"Chest tube placement, Oxygen therapy"
+primary carcinoma of the liver cells,"Chemotherapeutic agents, Targeted therapies, Liver transplantation"
+primary malignant neoplasm,"Chemotherapeutic agents, Targeted therapies, Radiation therapy"
+psychotic disorder,Antipsychotics
+pyelonephritis,Antibiotics
+respiratory failure,"Oxygen therapy, Mechanical ventilation"
+schizophrenia,Antipsychotics
+sepsis (invertebrate),"Antibiotics, Fluid and electrolyte replacement, Vasopressors"
+septicemia,"Antibiotics, Fluid and electrolyte replacement, Vasopressors"
+sickle cell anemia,"Hydroxyurea, L-glutamine, Blood transfusions"
+spasm bronchial,"Bronchodilators, Corticosteroids"
+stenosis aortic valve,Surgery (valve replacement)
+suicide attempt,"Depending on underlying cause, Psychotherapy, Medications"
+systemic infection,Antibiotics
+tachycardia sinus,Depending on underlying cause
+thrombocytopaenia,"Depending on underlying cause, Platelet transfusions, Thrombopoietin receptor agonists"
+thrombus,"Anticoagulants, Thrombolytics"
+tonic-clonic epilepsy,Anticonvulsants
+tonic-clonic seizures,Anticonvulsants
+transient ischemic attack,"Antiplatelet agents, Anticoagulants"
+tricuspid valve insufficiency,"Diuretics, ACE inhibitors, Angiotensin II receptor blockers, Surgery"
+ulcer peptic,"Proton pump inhibitors, H2 receptor antagonists, Antibiotics"
+upper respiratory infection,"Decongestants, Antihistamines, Cough suppressants, Analgesics"
